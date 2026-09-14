@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project specific
+.DS_Store
+.vscode/
+browser.json
+songs_base_dataset.csv
+.playlist_cache/
+playlist_gen_test.py
+tracks_features.csv
+artists_datasets/tracks_features.csv
